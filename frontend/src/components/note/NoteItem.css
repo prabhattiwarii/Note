@@ -1,0 +1,16 @@
+.tag-personal {
+    border: 2px solid blue;
+  }
+  
+  .tag-work {
+    border: 2px solid green;
+  }
+  
+  .tag-important {
+    border: 2px solid red;
+  }
+  
+  .tag-default {
+    border: 2px solid gray;
+  }
+  
